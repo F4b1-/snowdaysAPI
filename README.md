@@ -5,6 +5,8 @@ Install the dependencies:
 
 ```
 npm install
+
+npm install express
 ```
 
 Run the api endpoint:
